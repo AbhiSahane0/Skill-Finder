@@ -11,7 +11,7 @@ const DemoComponent = () => {
           {" "}
           Cheers,
           <br />
-          Start your project 🚀
+          Start your project 🚀 Great work.
         </p>
       </div>
     </div>
